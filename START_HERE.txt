@@ -1,0 +1,14 @@
+LUMA VISUALS / MINECRAFT JAVA 1.21.11 / FABRIC
+
+ВАЖНО: ЭТО ИСХОДНЫЙ ПРОЕКТ, НЕ ГОТОВЫЙ JAR.
+Полная сборка и запуск в игре пока не проверены.
+
+1. Дизайн: preview/LUMA-preview.html (открыть в браузере).
+2. Всё об установке и ограничениях: README_RU.md.
+3. Сборка Windows: JDK 21 + интернет, затем build.bat.
+4. Сборка Linux/macOS: JDK 21 + интернет, затем bash build.sh.
+5. JAR после УСПЕШНОЙ сборки: build/libs/luma-visuals-0.1.0+mc1.21.11.jar
+6. Minecraft: версия 1.21.11 + Fabric Loader + Fabric API для 1.21.11.
+7. Открыть меню в мире: правый Shift. Закрыть: Esc.
+
+ZIP, HTML и sources.jar НЕ нужно класть в папку mods.

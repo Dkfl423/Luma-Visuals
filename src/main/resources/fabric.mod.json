@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "luma_visuals",
+  "version": "${version}",
+  "name": "LUMA Visuals",
+  "description": "An original client-side HUD and cosmetic particle mod. No automation, ESP or network services.",
+  "authors": [
+    "LUMA Visuals"
+  ],
+  "license": "MIT",
+  "icon": "assets/luma_visuals/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.luma.visuals.LumaVisualsClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "=1.21.11",
+    "java": ">=21",
+    "fabric-api": ">=0.141.4+1.21.11"
+  }
+}
